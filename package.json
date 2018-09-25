@@ -1,0 +1,46 @@
+{
+  "name": "vue-nigeria-states-lgas",
+  "version": "1.0.2",
+  "description": "Vue library that lists Nigeria states and LGAs.",
+  "main": "dist/vue-nigeria-states-lgas.js",
+  "scripts": {
+    "build": "rimraf ./dist && webpack --config ./webpack.config.js"
+  },
+  "author": "Justin Cejowisz Obi",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.11.0",
+    "babel-runtime": "^6.9.2",
+    "rimraf": "^2.6.1",
+    "vue": "^2.2.1",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^11.1.4",
+    "vue-style-loader": "^2.0.3",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "^1.13.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cejowisz/vue-nigeria-states-lgas.git"
+  },
+  "keywords": [
+    "Nigeria",
+    "States",
+    "Country",
+    "Local",
+    "Government",
+    "Nodejs",
+    "Vue",
+    "JavaScript",
+    "Capital",
+    "City",
+    "Naija",
+    "Lga",
+    "Local-government"
+  ]
+}
